@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/leogardini" target="blank"><img src="https://img.shields.io/twitter/follow/leogardini?logo=twitter&style=for-the-badge" alt="leogardini" /></a> </p>
 
-- 🔭 I’m currently working on [bankme](https://github.com/bankme-tech/)
+- 🔭 I’m currently working on [SCOD Brazil](https://github.com/scod-br/)
 
 - 🌱 I’m currently learning **golang, devops and microservices architecture**
 
